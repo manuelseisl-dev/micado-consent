@@ -1,2 +1,5 @@
 homepage: "https://www.micado.cc"
 documentation: "https://www.micado.cc/consent-docs"
+versions:
+  - sha: dd4dec49ad81826d0d57dfb8551870841c7c4691
+    changeNotes: Initial release.
